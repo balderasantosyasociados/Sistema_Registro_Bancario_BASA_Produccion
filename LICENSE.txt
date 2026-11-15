@@ -1,0 +1,10 @@
+BASA INTERNAL SOFTWARE PACKAGE
+
+This package is provided as an internal prototype/demo for the
+Sistema de Registro Bancario BASA and Audit Intelligence USA.
+
+It is not a banking license, payment service, financial institution,
+or authorization to process real customer funds.
+
+Production deployment must comply with applicable laws, regulations,
+security requirements, privacy obligations, and regulatory approvals.
